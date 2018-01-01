@@ -1,0 +1,1 @@
+"use strict";module.exports={qs:function qs(a){return document.querySelector(a)},qsa:function qsa(a){return document.querySelectorAll(a)}};
