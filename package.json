@@ -1,5 +1,5 @@
 {
-  "name": "qs",
+  "name": "quse",
   "version": "0.1.0",
   "description": "Bored of typing \"document.querySelector()\" ? use qs : continue",
   "main": "dist/index.js",
