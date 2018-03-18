@@ -8,17 +8,16 @@ Bored of typing "document.querySelector()" ? use quse : continue
 ## Usage
 ```javascript
 
-const QUSE = require('quse');
-const _q = QUSE.qs;
-const _qa = QUSE.qsa;
+const q = require('quse').qs;
+const qa = equire('quse').qsa;
 
-// _q stands for querySelector
+// q stands for querySelector
 // It gets one instance of any HTML object using selectors
-let obj = _q('#content');
+let element = q('#content');
 
 // _qa stands for querySelectorAll
 // It gets multiple instances of any HTML objects using selectors
-let objects = _qa('.mansnothot');
+let objects = qa('.mansnothot');
 
 ```
 
