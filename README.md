@@ -15,7 +15,7 @@ const qa = require('quse').qsa;
 // It gets one instance of any HTML object using selectors
 let element = q('#content');
 
-// _qa stands for querySelectorAll
+// qa stands for querySelectorAll
 // It gets multiple instances of any HTML objects using selectors
 let objects = qa('.mansnothot');
 
