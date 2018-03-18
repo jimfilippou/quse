@@ -8,8 +8,8 @@ Bored of typing "document.querySelector()" ? use quse : continue
 ## Usage
 ```javascript
 
-const q = require('quse').qs;
-const qa = equire('quse').qsa;
+const q  = require('quse').qs;
+const qa = require('quse').qsa;
 
 // q stands for querySelector
 // It gets one instance of any HTML object using selectors
